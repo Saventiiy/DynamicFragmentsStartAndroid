@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamicFragmentsStartAndroid</string>
+    <string name="add_button">Add</string>
+    <string name="remove_button">Remove</string>
+    <string name="replace_button">Replace</string>
+    <string name="back_stack_checkBox">Add to Back Stack</string>
+    <string name="fragment_a">FragmentA</string>
+    <string name="fragment_b">FragmentB</string>
+</resources>
